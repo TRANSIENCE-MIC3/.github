@@ -8,5 +8,5 @@ Through extensive scenario modelling, TRANSIENCE will generate pathways to achie
 
 The TRANSIENCE project has received funding from the European Union’s HORIZON EUROPE Research and Innovation Programme under grant agreement No [101137606](https://doi.org/10.3030/101137606). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Health and Digital Executive Agency (HaDEA). Neither the European Union nor the granting authority can be held responsible for them.
 
-<img width="168" height="42" alt="processes4planet" src="https://github.com/user-attachments/assets/05341c1c-f311-4dea-acbf-e008615ee30f" /> 
-<img width="234" height="58" alt="eu_flag" src="https://github.com/user-attachments/assets/b7198a7f-6741-4134-b24b-9479b5c4b8af" />
+<img width="192" height="50" alt="processes4planet_full_color_microform" src="https://github.com/user-attachments/assets/5d2ad459-7662-4449-a2dc-1ca6eecbe106" /> 
+<img width="224" height="50" alt="EN_FundedbytheEU_RGB_POS" src="https://github.com/user-attachments/assets/3c878e4d-c1cc-4cde-ad80-eb7059dd011b" />
